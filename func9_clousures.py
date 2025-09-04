@@ -6,3 +6,4 @@ def adicionar(valor):
 adicionar_cinco = adicionar(5)
 
 print(adicionar_cinco(10))
+#
